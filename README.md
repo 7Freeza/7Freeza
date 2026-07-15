@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%25&color=0:0d1117,50:161b22,100:21262d&section=header&text=Sebastian%20Ropain&fontSize=48&fontColor=e6edf3&fontAlignY=42&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg" width="100%" alt="Sebastian Ropain"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1200&color=8b949e&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=380" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1200&color=8b949e&center=true&vCenter=true&width=700&lines=I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend;Turning+ideas+into+working+products" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,8 +17,6 @@
 <div align="center">
 
 ### `// DEVELOPER PROFILE`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=360" />
 
 </div>
 
@@ -63,11 +57,7 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
-
 ### `// STACK`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 <br/><br/>
 
@@ -91,11 +81,7 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
-
 ### `// WHAT I BRING`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
@@ -146,11 +132,7 @@ Productos completos con lógica de negocio — no solo features sueltas.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
-
 ### `// SELECTED WORK`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
@@ -187,11 +169,7 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
-
 ### `// ACTIVITY`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
@@ -213,11 +191,7 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
-
 ### `// CURRENTLY`
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
@@ -240,8 +214,8 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 [![GitHub](https://img.shields.io/badge/GitHub-@7Freeza-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/7Freeza)
 [![Gmail](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-8b949e?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=21262d)](mailto:ropainsebastian0@gmail.com)
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&width=100%25&color=0:0d1117,100:21262d&section=footer&reversal=true&text=Building%20software%20that%20matters.&fontSize=18&fontColor=8b949e&fontAlignY=55" width="100%"/>
+<sub>Building software that matters.</sub>
 
 </div>
