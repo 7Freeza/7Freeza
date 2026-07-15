@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&width=100%25&color=0:211c1c,100:fd4663&text=SEBASTIAN%20ROPAIN&fontSize=52&fontColor=f3f2f2&fontAlignY=38&stroke=6f6666" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&width=100%25&color=0:0d1117,50:161b22,100:21262d&text=Sebastian%20Ropain&fontSize=50&fontColor=e6edf3&fontAlignY=42&stroke=30363d" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3800&pause=1000&color=f3f2f2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&duration=3800&pause=1000&color=8b949e&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+in+Training;I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f6666&height=60&section=footer&reversal=true&text=JavaScript+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Vite+%C2%B7+Tailwind&fontSize=16&fontColor=f3f2f2&animation=twinkling" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=420" />
 
 <br/><br/>
 
-[![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-fd4663?style=for-the-badge&labelColor=211c1c)](mailto:ropainsebastian0@gmail.com)
-[![Email](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-f3f2f2?style=for-the-badge&logo=gmail&logoColor=fd4663&labelColor=2c2626)](mailto:ropainsebastian0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7Freeza-6f6666?style=for-the-badge&logo=github&logoColor=f3f2f2&labelColor=211c1c)](https://github.com/7Freeza)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-8b949e?style=for-the-badge&labelColor=161b22)](mailto:ropainsebastian0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-e6edf3?style=for-the-badge&logo=gmail&logoColor=8b949e&labelColor=21262d)](mailto:ropainsebastian0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7Freeza-8b949e?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/7Freeza)
 
 </div>
 
@@ -22,11 +22,7 @@
 
 ### `// DEVELOPER PROFILE`
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1.5&color=fd4663&width=120" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1.5&color=6f6666&width=280" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=soft&height=1.5&color=fd4663&width=120" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=360" />
 
 </div>
 
@@ -34,7 +30,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
 name: Sebastian Ropain
@@ -45,25 +41,19 @@ program: Intensive 1-year software development bootcamp
 focus:
   - Web applications with real-world utility
   - Scalable backend architecture
-  - Clean data models and secure authentication
+  - Secure authentication & clean data models
 
-currently_building: VersaFit
 availability: Open to internships & junior roles
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
 > **I don't just complete exercises — I ship products.**
 >
-> Desarrollador **Full Stack en formación** enfocado en construir software que **resuelve problemas reales**: desde el modelado de base de datos hasta APIs seguras y frontends funcionales.
+> Desarrollador **Full Stack en formación** enfocado en construir software **útil**: modelado de datos, APIs REST seguras y frontends que funcionan en producción.
 >
-> Mi enfoque: **utilidad, arquitectura sólida y ejecución.**
-
-<br/>
-
-[![VersaFit](https://img.shields.io/badge/Flagship-VersaFit-fd4663?style=flat-square&labelColor=211c1c)](https://github.com/7Freeza/VersaFit)
-[![Stack](https://img.shields.io/badge/Stack-Full%20Stack-6f6666?style=flat-square&labelColor=2c2626)](https://github.com/7Freeza/VersaFit)
+> Priorizo **arquitectura clara**, entrega constante y productos con propósito.
 
 </td>
 </tr>
@@ -73,11 +63,23 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211c1c&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
 
-### `// TECH ARSENAL`
+### `// STACK`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd4663&height=2&section=footer" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
+
+<br/><br/>
+
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,py,html,css,sql&perline=5&theme=dark" />
+
+<br/><br/>
+
+**Frameworks & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github&perline=7&theme=dark" />
 
 </div>
 
@@ -85,124 +87,94 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-**Languages** — lo que uso en proyectos reales
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,py,html,css,sql&perline=8&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
 
-<br/><br/>
+### `// WHAT I BRING`
 
-**Stack** — VersaFit + bootcamp
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github&perline=8&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Data Modeling**
+
+<br/>
+
+Esquemas relacionales normalizados, integridad referencial y consultas funcionales.
+
+</td>
+<td align="center" width="25%">
+
+**Secure APIs**
+
+<br/>
+
+JWT, hashing, validación de datos y manejo estructurado de errores.
+
+</td>
+<td align="center" width="25%">
+
+**Frontend Delivery**
+
+<br/>
+
+SPAs con routing, sesión persistente, consumo de API y UI responsive.
+
+</td>
+<td align="center" width="25%">
+
+**Product Mindset**
+
+<br/>
+
+Productos completos con lógica de negocio — no solo features sueltas.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211c1c&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
 
-### `// FLAGSHIP PROJECT — VERSAFIT`
+### `// SELECTED WORK`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd4663&height=2&section=footer" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
 <br/>
 
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**VersaFit** — Web app full stack para hábitos de salud y disciplina.
+
+Plataforma con onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimiento de progreso. Proyecto principal donde aplico arquitectura **backend + base de datos + frontend** de punta a punta.
+
+<br/>
+
+`PostgreSQL` · `Node.js` · `Express` · `JWT` · `Vite` · `Tailwind` · `SPA`
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-VersaFit-e6edf3?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=161b22)](https://github.com/7Freeza/VersaFit)
+
+</td>
+<td width="38%" valign="top" align="center">
 
 <a href="https://github.com/7Freeza/VersaFit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7Freeza&repo=VersaFit&title_color=f3f2f2&text_color=b5b0b0&icon_color=fd4663&bg_color=211c1c&border_color=fd4663&border_radius=16&hide_border=false" alt="VersaFit" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7Freeza&repo=VersaFit&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false" alt="VersaFit" />
 </a>
 
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-**🎯 The Problem**
-
-<br/>
-
-Usuarios con **falta de disciplina** y **procrastinación** que abandonan rutinas de salud por falta de estructura, seguimiento y motivación constante.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**💡 The Solution**
-
-<br/>
-
-**VersaFit** — plataforma web que genera planes personalizados, organiza rutinas semanales, registra progreso y mantiene al usuario **comprometido con su objetivo**.
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**⚙️ What I Built**
-
-<br/>
-
-Sistema **full stack** completo: autenticación JWT, base de datos **3NF**, API REST documentada, SPA con routing, integración de APIs externas y UX pensada para retención.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Technical Stack**
-
-| Layer | Technology |
-|:------|:-----------|
-| Database | PostgreSQL (3NF schema) |
-| Backend | Node.js · Express · JWT · bcrypt |
-| Frontend | JavaScript SPA · Vite · Tailwind |
-| APIs | wger.de · quotable.io |
-
-<br/>
-
-**Core Features**
-- Multi-step onboarding with personalized plan generation
-- Weekly schedule & routine dashboard
-- Exercise checklist & session tracking
-- Weight logging & history
-- Dark / light mode · SPA navigation
-
-</td>
-<td width="50%" valign="top">
-
-**Architecture**
-
-```
-VersaFit/
-├── database/
-│   ├── schema.sql      # 3NF relational model
-│   ├── seed.sql        # demo data
-│   └── queries.sql     # functional queries
-├── backend/
-│   ├── controllers/    # auth, users, exercise
-│   ├── services/       # plan generator, APIs
-│   ├── middleware/     # JWT auth, errors
-│   └── models/         # SQL data access
-└── frontend/
-    ├── pages/          # SPA views
-    ├── components/     # reusable UI
-    └── router.js       # hash-based routing
-```
-
-<br/>
-
-[![Explore VersaFit](https://img.shields.io/badge/Explore_Repository-VersaFit-fd4663?style=for-the-badge&logo=github&logoColor=f3f2f2&labelColor=211c1c)](https://github.com/7Freeza/VersaFit)
-
 </td>
 </tr>
 </table>
@@ -211,66 +183,11 @@ VersaFit/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211c1c&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
 
-### `// WHAT I BRING TO A TEAM`
+### `// ACTIVITY`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd4663&height=2&section=footer" width="40%"/>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🗄️ Data Modeling**
-
-<br/>
-
-Diseño de esquemas relacionales normalizados con integridad referencial y consultas funcionales.
-
-</td>
-<td align="center" width="25%">
-
-**🔐 Secure APIs**
-
-<br/>
-
-Autenticación JWT, hashing de contraseñas, validación de datos y manejo estructurado de errores.
-
-</td>
-<td align="center" width="25%">
-
-**🖥️ Frontend Delivery**
-
-<br/>
-
-SPAs funcionales con routing, estado de sesión, consumo de API y UI responsive con Tailwind.
-
-</td>
-<td align="center" width="25%">
-
-**🚀 Product Mindset**
-
-<br/>
-
-No me limito a features aisladas — construyo **productos completos** con propósito y lógica de negocio.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211c1c&height=2&section=header" width="100%"/>
-
-### `// ACTIVITY & METRICS`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd4663&height=2&section=footer" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
@@ -278,15 +195,15 @@ No me limito a features aisladas — construyo **productos completos** con prop�
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=f3f2f2&text_color=b5b0b0&icon_color=fd4663&bg_color=211c1c&border_color=fd4663&border_radius=16&hide_border=false&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=e6edf3&text_color=8b949e&icon_color=8b949e&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=7Freeza&theme=transparent&background=211c1c&border=fd4663&stroke=6f6666&ring=fd4663&fire=fd4663&currStreakLabel=b5b0b0&sideLabels=b5b0b0&currStreakNum=f3f2f2&sideNums=f3f2f2&dates=6f6666&border_radius=16" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=7Freeza&theme=transparent&background=0d1117&border=30363d&stroke=484f58&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&border_radius=12" alt="GitHub Streak" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Freeza&layout=compact&theme=transparent&title_color=f3f2f2&text_color=b5b0b0&bg_color=211c1c&border_color=fd4663&border_radius=16&hide_border=false" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Freeza&layout=compact&theme=transparent&title_color=e6edf3&text_color=8b949e&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=211c1c&color=b5b0b0&line=fd4663&point=f3f2f2&area=true&area_color=6f6666&title_color=f3f2f2&custom_title=Contribution%20Graph&border_color=fd4663&border_radius=16" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=0d1117&color=8b949e&line=484f58&point=e6edf3&area=true&area_color=21262d&title_color=e6edf3&custom_title=Contributions&border_color=30363d&border_radius=12" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -294,35 +211,35 @@ No me limito a features aisladas — construyo **productos completos** con prop�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=211c1c&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=30363d&width=100%25" />
 
 ### `// CURRENTLY`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=fd4663&height=2&section=footer" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=1&color=484f58&width=200" />
 
 </div>
 
 <br/>
 
 ```diff
-+ Expanding VersaFit modules (nutrition, streaks, notifications)
-+ Deepening PostgreSQL architecture & complex queries
-+ Strengthening full stack delivery through intensive bootcamp projects
++ Intensive full stack bootcamp — shipping real projects
++ Deepening PostgreSQL & backend architecture
++ Expanding VersaFit (nutrition, streaks, notifications)
 ```
 
 <br/>
 
 <div align="center">
 
-### `// LET'S CONNECT`
+### `// CONNECT`
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@7Freeza-f3f2f2?style=for-the-badge&logo=github&logoColor=fd4663&labelColor=211c1c)](https://github.com/7Freeza)
-[![Gmail](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-fd4663?style=for-the-badge&logo=gmail&logoColor=f3f2f2&labelColor=2c2626)](mailto:ropainsebastian0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@7Freeza-e6edf3?style=for-the-badge&logo=github&logoColor=8b949e&labelColor=161b22)](https://github.com/7Freeza)
+[![Gmail](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-8b949e?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=21262d)](mailto:ropainsebastian0@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=211c1c&height=120&section=footer&text=Building%20software%20that%20matters.&fontSize=22&fontColor=f3f2f2&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&width=100%25&color=0:0d1117,100:161b22&text=Building%20software%20that%20matters.&fontSize=20&fontColor=8b949e&fontAlignY=55&stroke=30363d" width="100%"/>
 
 </div>
