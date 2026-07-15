@@ -175,17 +175,20 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/7Freeza">
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false&rank_icon=percentile&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/7Freeza">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=7Freeza&theme=transparent&background=0d1117&border=30363d&stroke=484f58&ring=58a6ff&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&border_radius=12" />
+  </a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=7Freeza&theme=transparent&background=0d1117&border=30363d&stroke=484f58&ring=58a6ff&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&border_radius=12" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=0d1117&color=8b949e&line=484f58&point=58a6ff&area=true&area_color=21262d&title_color=e6edf3&custom_title=Contributions&border_color=30363d&border_radius=12" alt="Activity Graph" width="100%"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/7Freeza">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=0d1117&color=8b949e&line=484f58&point=58a6ff&area=true&area_color=21262d&title_color=e6edf3&custom_title=Contributions&border_color=30363d&border_radius=12" width="100%" />
+  </a>
+</p>
 
 <br/>
 
