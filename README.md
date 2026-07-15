@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f6666&height=60&section=footer&reversal=true&text=Node.js+%C2%B7+PostgreSQL+%C2%B7+Express+%C2%B7+JavaScript+%C2%B7+REST+APIs&fontSize=16&fontColor=f3f2f2&animation=twinkling" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f6666&height=60&section=footer&reversal=true&text=JavaScript+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Vite+%C2%B7+Tailwind&fontSize=16&fontColor=f3f2f2&animation=twinkling" width="85%"/>
 
 <br/><br/>
 
@@ -85,15 +85,15 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-**Languages**
+**Languages** — lo que uso en proyectos reales
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,sql&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,py,html,css,sql&perline=8&theme=dark" />
 
 <br/><br/>
 
-**Backend · Database · Frontend · DevOps**
+**Stack** — VersaFit + bootcamp
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github,docker,linux&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github&perline=8&theme=dark" />
 
 </div>
 
