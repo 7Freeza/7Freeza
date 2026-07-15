@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&width=100%25&color=0:0d1117,45:161b22,100:21262d&section=header&text=Sebastian%20Ropain&fontSize=48&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&stroke=30363d&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%25&color=0:0d1117,50:161b22,100:21262d&section=header&text=Sebastian%20Ropain&fontSize=48&fontColor=e6edf3&fontAlignY=42&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1200&color=8b949e&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Training;I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend" alt="Typing SVG" />
 
@@ -242,6 +242,6 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=100&width=100%25&color=0:0d1117,100:161b22&section=footer&reversal=true&text=Building%20software%20that%20matters.&fontSize=18&fontColor=8b949e&fontAlignY=55&animation=twinkling&stroke=30363d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&width=100%25&color=0:0d1117,100:21262d&section=footer&reversal=true&text=Building%20software%20that%20matters.&fontSize=18&fontColor=8b949e&fontAlignY=55" width="100%"/>
 
 </div>
