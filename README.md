@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg" width="100%" alt="Sebastian Ropain"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=4000&pause=1200&color=8b949e&center=true&vCenter=true&width=700&lines=I+build+useful+web+applications;Backend+%2B+Database+%2B+Frontend;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4500&pause=1800&color=6e7681&center=true&vCenter=true&width=640&lines=Building+reliable+web+systems;Backend+%C2%B7+Database+%C2%B7+Frontend;Open+to+professional+opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
