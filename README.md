@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=4" width="100%" alt="Sebastian Ropain"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=1600&color=8b949e&center=true&vCenter=true&width=560&lines=Backend+%C2%B7+Database+%C2%B7+Frontend" alt=""/>
+<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=5" width="100%" alt="Sebastian Ropain"/>
 
 <br/><br/>
 
