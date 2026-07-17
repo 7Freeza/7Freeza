@@ -1,91 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Sebastian Ropain">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Sebastian Ropain — Full Stack Developer">
+  <!--
+    GitHub-safe SVG: solid fills only (no fill=url() on text).
+    Camo proxy breaks gradient text fills.
+  -->
   <defs>
-    <!-- Cold steel base -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#080a0c"/>
-      <stop offset="50%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a0e12"/>
-    </linearGradient>
-
-    <!-- Soft vertical sheen — restrained -->
-    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8b9cb3" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#8b9cb3" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#8b9cb3" stop-opacity="0"/>
-    </linearGradient>
-
-    <!-- Name edge glow -->
-    <linearGradient id="nameEdge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#e6edf3"/>
-      <stop offset="100%" stop-color="#9aa4b0"/>
-    </linearGradient>
-
-    <!-- Thin horizontal guide line fade -->
-    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#30363d" stop-opacity="0"/>
-      <stop offset="15%" stop-color="#30363d" stop-opacity="1"/>
-      <stop offset="85%" stop-color="#30363d" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#30363d" stop-opacity="0"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
   </defs>
 
-  <!-- Base -->
-  <rect width="1200" height="180" fill="url(#bg)"/>
+  <!-- Background (slightly lighter than pure black so it reads on GitHub) -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
 
-  <!-- Top / bottom frame (static structure) -->
-  <line x1="0" y1="0.5" x2="1200" y2="0.5" stroke="#21262d" stroke-width="1"/>
-  <line x1="0" y1="179.5" x2="1200" y2="179.5" stroke="#21262d" stroke-width="1"/>
+  <!-- Outer border -->
+  <rect x="1" y="1" width="1198" height="198" fill="none" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Left cold accent bar -->
-  <rect x="0" y="0" width="3" height="180" fill="#4a5d73">
-    <animate attributeName="opacity" values="0.45;0.9;0.45" dur="8s" repeatCount="indefinite"/>
+  <!-- Left accent (cold steel, solid) -->
+  <rect x="0" y="0" width="4" height="200" fill="#58a6ff">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Slow sheen pass — barely there -->
-  <rect y="0" width="200" height="180" fill="url(#sheen)">
-    <animate attributeName="x" values="-200;1200;-200" dur="14s" repeatCount="indefinite"/>
+  <!-- Soft horizontal scan (visible, not invisible) -->
+  <rect x="0" y="0" width="1200" height="2" fill="#58a6ff" opacity="0.35">
+    <animate attributeName="y" values="0;198;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.45;0.15" dur="8s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Center content rule -->
-  <line x1="360" y1="118" x2="840" y2="118" stroke="url(#rule)" stroke-width="1"/>
-
-  <!-- Moving marker on rule (scan) -->
-  <rect y="117" width="48" height="2" rx="1" fill="#6e8a9e" opacity="0.85">
-    <animate attributeName="x" values="360;792;360" dur="9s" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" keyTimes="0;0.5;1" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.35;0.9;0.35" dur="9s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Name -->
+  <!-- Name — solid white/grey (must work on GitHub) -->
   <text
-    x="600"
-    y="78"
-    text-anchor="middle"
-    font-family="Inter, Segoe UI, system-ui, -apple-system, sans-serif"
-    font-size="40"
-    font-weight="500"
-    fill="url(#nameEdge)"
-    letter-spacing="4"
+    x="80"
+    y="95"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="42"
+    font-weight="600"
+    fill="#e6edf3"
+    letter-spacing="1.5"
   >Sebastian Ropain</text>
 
-  <!-- Role line -->
+  <!-- Underline track -->
+  <line x1="80" y1="118" x2="520" y2="118" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Moving segment on underline -->
+  <rect y="116" width="72" height="4" rx="1" fill="#58a6ff">
+    <animate attributeName="x" values="80;448;80" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Role -->
   <text
-    x="600"
-    y="148"
-    text-anchor="middle"
-    font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace"
-    font-size="12"
+    x="80"
+    y="152"
+    font-family="Consolas, Monaco, monospace"
+    font-size="15"
     font-weight="400"
-    fill="#6e7681"
-    letter-spacing="3"
+    fill="#8b949e"
+    letter-spacing="2"
   >FULL STACK DEVELOPER</text>
 
-  <!-- Micro status dots — quiet pulse -->
-  <g>
-    <circle cx="560" cy="148" r="1.5" fill="#4a5d73">
-      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="3.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="640" cy="148" r="1.5" fill="#4a5d73">
-      <animate attributeName="opacity" values="0.85;0.3;0.85" dur="3.2s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <!-- Right side meta (static, high contrast) -->
+  <text
+    x="1120"
+    y="95"
+    text-anchor="end"
+    font-family="Consolas, Monaco, monospace"
+    font-size="13"
+    fill="#484f58"
+  >COLOMBIA</text>
+  <text
+    x="1120"
+    y="120"
+    text-anchor="end"
+    font-family="Consolas, Monaco, monospace"
+    font-size="13"
+    fill="#484f58"
+  >OPEN TO WORK</text>
+
+  <!-- Status pulse dot -->
+  <circle cx="1095" cy="116" r="4" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
 </svg>
