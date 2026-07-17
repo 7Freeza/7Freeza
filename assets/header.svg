@@ -1,82 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Sebastian Ropain — Full Stack Developer">
-  <!--
-    GitHub-safe SVG: solid fills only (no fill=url() on text).
-    Camo proxy breaks gradient text fills.
-  -->
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Sebastian Ropain">
+  <!-- Minimal header — solid fills only (GitHub-safe) -->
+  <rect width="1200" height="160" fill="#0d1117"/>
 
-  <!-- Background (slightly lighter than pure black so it reads on GitHub) -->
-  <rect width="1200" height="200" fill="url(#bg)"/>
-
-  <!-- Outer border -->
-  <rect x="1" y="1" width="1198" height="198" fill="none" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Left accent (cold steel, solid) -->
-  <rect x="0" y="0" width="4" height="200" fill="#58a6ff">
-    <animate attributeName="opacity" values="0.55;1;0.55" dur="5s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Soft horizontal scan (visible, not invisible) -->
-  <rect x="0" y="0" width="1200" height="2" fill="#58a6ff" opacity="0.35">
-    <animate attributeName="y" values="0;198;0" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.15;0.45;0.15" dur="8s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Name — solid white/grey (must work on GitHub) -->
+  <!-- Name -->
   <text
-    x="80"
-    y="95"
+    x="600"
+    y="78"
+    text-anchor="middle"
     font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="42"
-    font-weight="600"
+    font-size="38"
+    font-weight="500"
     fill="#e6edf3"
-    letter-spacing="1.5"
+    letter-spacing="2"
   >Sebastian Ropain</text>
 
-  <!-- Underline track -->
-  <line x1="80" y1="118" x2="520" y2="118" stroke="#30363d" stroke-width="2"/>
+  <!-- Thin line under name -->
+  <line x1="420" y1="100" x2="780" y2="100" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Moving segment on underline -->
-  <rect y="116" width="72" height="4" rx="1" fill="#58a6ff">
-    <animate attributeName="x" values="80;448;80" dur="6s" repeatCount="indefinite"/>
+  <!-- Quiet moving accent on the line -->
+  <rect y="99" width="40" height="2" fill="#8b949e">
+    <animate attributeName="x" values="420;740;420" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Role -->
   <text
-    x="80"
-    y="152"
-    font-family="Consolas, Monaco, monospace"
-    font-size="15"
+    x="600"
+    y="128"
+    text-anchor="middle"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="14"
     font-weight="400"
     fill="#8b949e"
-    letter-spacing="2"
-  >FULL STACK DEVELOPER</text>
-
-  <!-- Right side meta (static, high contrast) -->
-  <text
-    x="1120"
-    y="95"
-    text-anchor="end"
-    font-family="Consolas, Monaco, monospace"
-    font-size="13"
-    fill="#484f58"
-  >COLOMBIA</text>
-  <text
-    x="1120"
-    y="120"
-    text-anchor="end"
-    font-family="Consolas, Monaco, monospace"
-    font-size="13"
-    fill="#484f58"
-  >OPEN TO WORK</text>
-
-  <!-- Status pulse dot -->
-  <circle cx="1095" cy="116" r="4" fill="#3fb950">
-    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
+    letter-spacing="3"
+  >Full Stack Developer</text>
 </svg>
