@@ -1,37 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Sebastian Ropain">
-  <!-- Minimal header — solid fills only (GitHub-safe) -->
-  <rect width="1200" height="160" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Sebastian Ropain — Full Stack Developer in training">
+  <!-- Minimal, larger presence — solid fills (GitHub-safe) -->
+  <rect width="1200" height="220" fill="#0d1117"/>
 
   <!-- Name -->
   <text
     x="600"
-    y="78"
+    y="100"
     text-anchor="middle"
     font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="38"
-    font-weight="500"
+    font-size="48"
+    font-weight="600"
     fill="#e6edf3"
-    letter-spacing="2"
+    letter-spacing="2.5"
   >Sebastian Ropain</text>
 
-  <!-- Thin line under name -->
-  <line x1="420" y1="100" x2="780" y2="100" stroke="#30363d" stroke-width="1"/>
+  <!-- Line under name -->
+  <line x1="380" y1="128" x2="820" y2="128" stroke="#30363d" stroke-width="1.5"/>
 
-  <!-- Quiet moving accent on the line -->
-  <rect y="99" width="40" height="2" fill="#8b949e">
-    <animate attributeName="x" values="420;740;420" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/>
+  <!-- Quiet moving accent -->
+  <rect y="126.5" width="56" height="3" fill="#8b949e">
+    <animate attributeName="x" values="380;764;380" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="7s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Role -->
   <text
     x="600"
-    y="128"
+    y="168"
     text-anchor="middle"
     font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="14"
+    font-size="18"
     font-weight="400"
     fill="#8b949e"
-    letter-spacing="3"
-  >Full Stack Developer</text>
+    letter-spacing="2"
+  >Full Stack Developer in training</text>
 </svg>

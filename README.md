@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=5" width="100%" alt="Sebastian Ropain"/>
+<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=6" width="100%" alt="Sebastian Ropain — Full Stack Developer in training"/>
 
 <br/><br/>
 
