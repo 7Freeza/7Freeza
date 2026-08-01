@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Junior;AI+Engineer+en+formación;Prompt+Engineering+%2B+LLMs+locales;Construyendo+software+con+propósito" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=E6EDF3&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Junior;AI+Engineer+en+formación;Prompt+Engineering+%2B+LLMs+locales;Construyendo+software+con+propósito" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -260,11 +260,11 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 <br/>
 
 ```diff
-+ Bootcamp intensivo de desarrollo de software
-+ AI Engineer: prompt engineering + LLMs locales
-+ Ecosistema de memoria persistente (Obsidian + Ollama)
-+ Traducción neuronal para optimización de tokens
-+ Automatización con n8n
++ AI Engineer: prompt engineering con rol, contexto y salida estructurada
++ Integrando LLMs locales (Ollama) para privacidad y costo cero
++ Ecosistema de memoria persistente (Obsidian + LLM local)
++ Traducción neuronal local (CTranslate2) para optimización de tokens
++ Automatización de flujos con n8n
 ```
 
 <br/>
