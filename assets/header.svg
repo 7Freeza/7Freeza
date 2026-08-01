@@ -1,37 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Sebastian Ropain — Full Stack Developer in training">
-  <!-- Minimal, larger presence — solid fills (GitHub-safe) -->
-  <rect width="1200" height="220" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Sebastian Ropain — Desarrollador de Software Junior & AI Engineer">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#ff7b72"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a371f7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="roleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b949e"/>
+      <stop offset="50%" stop-color="#e6edf3"/>
+      <stop offset="100%" stop-color="#8b949e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
-  <!-- Name -->
-  <text
-    x="600"
-    y="100"
-    text-anchor="middle"
-    font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="48"
-    font-weight="600"
-    fill="#e6edf3"
-    letter-spacing="2.5"
-  >Sebastian Ropain</text>
+  <rect width="1200" height="240" fill="#0d1117"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
 
-  <!-- Line under name -->
-  <line x1="380" y1="128" x2="820" y2="128" stroke="#30363d" stroke-width="1.5"/>
+  <!-- Name with animated gradient -->
+  <text x="600" y="105" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="2" fill="url(#nameGrad)">
+    Sebastian Ropain
+    <animate attributeName="opacity" values="0.9;1;0.9" dur="3.5s" repeatCount="indefinite"/>
+  </text>
 
-  <!-- Quiet moving accent -->
-  <rect y="126.5" width="56" height="3" fill="#8b949e">
-    <animate attributeName="x" values="380;764;380" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.35;1;0.35" dur="7s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Gradient line -->
+  <line x1="340" y1="132" x2="860" y2="132" stroke="url(#lineGrad)" stroke-width="2"/>
+
+  <!-- Moving accent dot -->
+  <circle cy="132" r="5" fill="#a371f7">
+    <animate attributeName="cx" values="345;855;345" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="8s" repeatCount="indefinite"/>
+  </circle>
 
   <!-- Role -->
-  <text
-    x="600"
-    y="168"
-    text-anchor="middle"
-    font-family="Segoe UI, Helvetica, Arial, sans-serif"
-    font-size="18"
-    font-weight="400"
-    fill="#8b949e"
-    letter-spacing="2"
-  >Full Stack Developer in training</text>
+  <text x="600" y="178" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" letter-spacing="2.5" fill="url(#roleGrad)">
+    Desarrollador de Software Junior · AI Engineer
+  </text>
+
+  <!-- Small subtitle -->
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="300" letter-spacing="1.5" fill="#8b949e" opacity="0.8">
+    Prompt Engineering · Local LLMs · Full Stack
+  </text>
 </svg>

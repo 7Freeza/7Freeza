@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=6" width="100%" alt="Sebastian Ropain — Full Stack Developer in training"/>
+<img src="https://raw.githubusercontent.com/7Freeza/7Freeza/main/assets/header.svg?v=7" width="100%" alt="Sebastian Ropain — Desarrollador de Software Junior & AI Engineer"/>
 
-<br/><br/>
+<br/>
 
-[![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-8b949e?style=for-the-badge&labelColor=161b22)](mailto:ropainsebastian0@gmail.com)
-[![Email](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-e6edf3?style=for-the-badge&logo=gmail&logoColor=8b949e&labelColor=21262d)](mailto:ropainsebastian0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7Freeza-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/7Freeza)
+[![Status](https://img.shields.io/badge/⚡_Open_to_opportunities-Jr._Software-58a6ff?style=for-the-badge&labelColor=0d1117&color=58a6ff)](mailto:ropainsebastian0@gmail.com)
+[![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-in_training-a371f7?style=for-the-badge&labelColor=0d1117&color=a371f7)](https://github.com/7Freeza)
+[![Email](https://img.shields.io/badge/✉_Contact-ropainsebastian0%40gmail.com-e6edf3?style=for-the-badge&labelColor=0d1117&color=e6edf3)](mailto:ropainsebastian0@gmail.com)
 
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software+Junior;AI+Engineer+en+formación;Prompt+Engineering+%2B+LLMs+locales;Construyendo+software+con+propósito" alt="Typing SVG" />
+</div>
 
-### `// DEVELOPER PROFILE`
+<br/>
+
+<div align="center">
+
+### `✦ SOBRE MÍ ✦`
 
 </div>
 
@@ -22,30 +28,50 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 name: Sebastian Ropain
-role: Full Stack Developer in training
+role: Desarrollador de Software Junior
+branch: AI Engineer (en formación)
 location: Colombia
-program: Intensive 1-year software development bootcamp
 
 focus:
-  - Web applications with real-world utility
-  - Scalable backend architecture
-  - Secure authentication & clean data models
+  - Prompt Engineering & optimización de tokens
+  - LLMs locales (Ollama, RAG, agentes)
+  - Backend escalable + APIs
+  - Productos full stack con propósito
 
-availability: Open to internships & junior roles
+currently:
+  - Ingeniería de prompts avanzada
+  - Ecosistemas de memoria persistente (Obsidian + LLM local)
+  - Traducción neuronal local para ahorro de tokens
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
-> **I don't just complete exercises — I ship products.**
+> **"No solo completo ejercicios — construyo sistemas que piensan."**
 >
-> Desarrollador **Full Stack en formación** enfocado en construir software **útil**: modelado de datos, APIs REST seguras y frontends que funcionan en producción.
+> Desarrollador **Junior** con especialización en **AI Engineering**: diseño de prompts, integración de modelos locales y optimización de costos de tokens.
 >
-> Priorizo **arquitectura clara**, entrega constante y productos con propósito.
+> Construí pipelines completos de procesamiento de Excel con **traducción neuronal local** (OPUS-MT), clasificación híbrida (reglas + LLM) y métricas de optimización de tokens — todo en local, sin depender de APIs externas.
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>🧠 Prompt Eng.</strong>
+</td>
+<td align="center" width="33%">
+<strong>🤖 Local LLMs</strong>
+</td>
+<td align="center" width="33%">
+<strong>⚙️ Full Stack</strong>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -55,23 +81,30 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-### `// STACK`
-
-<br/><br/>
-
-**Languages**
+### `✦ STACK ✦`
 
 <br/>
+
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=js,py,html,css,sql&perline=5&theme=dark" />
 
 <br/><br/>
 
-**Frameworks & Tools**
+**Frameworks, Tools & AI**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github,docker&perline=8&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,tailwind,vite,git,github&perline=7&theme=dark" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=58a6ff" alt="Ollama"/>
+<img src="https://img.shields.io/badge/tiktoken-0d1117?style=flat-square&logo=openai&logoColor=58a6ff" alt="tiktoken"/>
+<img src="https://img.shields.io/badge/CTranslate2-0d1117?style=flat-square&logo=onnx&logoColor=a371f7" alt="CTranslate2"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=58a6ff" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Obsidian-0d1117?style=flat-square&logo=obsidian&logoColor=a371f7" alt="Obsidian"/>
+<img src="https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=58a6ff" alt="n8n"/>
 
 </div>
 
@@ -79,7 +112,7 @@ availability: Open to internships & junior roles
 
 <div align="center">
 
-### `// WHAT I BRING`
+### `✦ LO QUE APORTO ✦`
 
 </div>
 
@@ -89,38 +122,38 @@ availability: Open to internships & junior roles
 <tr>
 <td align="center" width="25%">
 
-**Data Modeling**
+**🧠 Prompt Engineering**
 
 <br/>
 
-Esquemas relacionales normalizados, integridad referencial y consultas funcionales.
+Diseño de prompts con rol, contexto y salida estructurada. Optimización de tokens sin perder calidad.
 
 </td>
 <td align="center" width="25%">
 
-**Secure APIs**
+**🌐 LLMs Locales**
 
 <br/>
 
-JWT, hashing, validación de datos y manejo estructurado de errores.
+Integración de Ollama, traducción neuronal y clasificación híbrida — privacidad y costo cero.
 
 </td>
 <td align="center" width="25%">
 
-**Frontend Delivery**
+**📊 Optimización de Tokens**
 
 <br/>
 
-SPAs con routing, sesión persistente, consumo de API y UI responsive.
+Métricas de ahorro ES→EN, costo por millón, deduplicación semántica y timing por fase.
 
 </td>
 <td align="center" width="25%">
 
-**Product Mindset**
+**🚀 Productos Full Stack**
 
 <br/>
 
-Productos completos con lógica de negocio — no solo features sueltas.
+Backend + base de datos + frontend con lógica de negocio real, no features sueltas.
 
 </td>
 </tr>
@@ -130,7 +163,7 @@ Productos completos con lógica de negocio — no solo features sueltas.
 
 <div align="center">
 
-### `// SELECTED WORK`
+### `✦ PROYECTOS DESTACADOS ✦`
 
 </div>
 
@@ -140,23 +173,51 @@ Productos completos con lógica de negocio — no solo features sueltas.
 <tr>
 <td width="64%" valign="top">
 
+**FeedbackIQ** — Plataforma de optimización de tokens con IA local.
+
+<br/>
+
+Pipeline completo: ingesta de Excel → deduplicación semántica → traducción neuronal (CTranslate2) → clasificación → exportación. Métricas de ahorro real y analytics extendidas.
+
+<br/>
+
+`Python` · `FastAPI` · `CTranslate2` · `tiktoken` · `model2vec` · `pandas`
+
+<br/>
+
+[![Repository](https://img.shields.io/badge/Repository-FeedbackIQ-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117&color=58a6ff)](https://github.com/7Freeza/FeedbackIQ)
+
+</td>
+<td width="36%" valign="middle" align="center">
+
+<a href="https://github.com/7Freeza/FeedbackIQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7Freeza&repo=FeedbackIQ&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12" alt="FeedbackIQ" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="64%" valign="top">
+
 **VersaFit** — Web app full stack para hábitos de salud y disciplina.
 
-Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimiento de progreso. Donde aplico **backend + base de datos + frontend** de punta a punta.
+<br/>
+
+Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimiento de progreso. Backend + base de datos + frontend de punta a punta.
 
 <br/>
 
-`PostgreSQL` · `Node.js` · `Express` · `JWT` · `Vite` · `Tailwind` · `SPA`
+`PostgreSQL` · `Node.js` · `Express` · `JWT` · `Vite` · `Tailwind`
 
 <br/>
 
-[![Repository](https://img.shields.io/badge/Repository-VersaFit-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/7Freeza/VersaFit)
+[![Repository](https://img.shields.io/badge/Repository-VersaFit-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117&color=58a6ff)](https://github.com/7Freeza/VersaFit)
 
 </td>
 <td width="36%" valign="middle" align="center">
 
 <a href="https://github.com/7Freeza/VersaFit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7Freeza&repo=VersaFit&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false" alt="VersaFit" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7Freeza&repo=VersaFit&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12" alt="VersaFit" />
 </a>
 
 </td>
@@ -167,7 +228,7 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <div align="center">
 
-### `// ACTIVITY`
+### `✦ ACTIVIDAD ✦`
 
 </div>
 
@@ -175,7 +236,7 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <p align="center">
   <a href="https://github.com/7Freeza">
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12&hide_border=false&rank_icon=percentile&include_all_commits=true" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&bg_color=0d1117&border_color=30363d&border_radius=12&rank_icon=percentile&include_all_commits=true" />
   </a>
   <a href="https://github.com/7Freeza">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=7Freeza&theme=transparent&background=0d1117&border=30363d&stroke=484f58&ring=58a6ff&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=484f58&border_radius=12" />
@@ -184,7 +245,7 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <p align="center">
   <a href="https://github.com/7Freeza">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=0d1117&color=8b949e&line=484f58&point=58a6ff&area=true&area_color=21262d&title_color=e6edf3&custom_title=Contributions&border_color=30363d&border_radius=12" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=7Freeza&bg_color=0d1117&color=8b949e&line=58a6ff&point=a371f7&area=true&area_color=1f6feb&title_color=e6edf3&custom_title=Contributions&border_color=30363d&border_radius=12" width="100%" />
   </a>
 </p>
 
@@ -192,31 +253,33 @@ Onboarding personalizado, planes de entrenamiento, dashboard semanal y seguimien
 
 <div align="center">
 
-### `// CURRENTLY`
+### `✦ ACTUALMENTE ✦`
 
 </div>
 
 <br/>
 
 ```diff
-+ Intensive full stack bootcamp — shipping real projects
-+ Deepening PostgreSQL & backend architecture
-+ Expanding VersaFit (nutrition, streaks, notifications)
++ Bootcamp intensivo de desarrollo de software
++ AI Engineer: prompt engineering + LLMs locales
++ Ecosistema de memoria persistente (Obsidian + Ollama)
++ Traducción neuronal para optimización de tokens
++ Automatización con n8n
 ```
 
 <br/>
 
 <div align="center">
 
-### `// CONNECT`
+### `✦ CONECTA ✦`
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@7Freeza-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/7Freeza)
-[![Gmail](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-8b949e?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=21262d)](mailto:ropainsebastian0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@7Freeza-58a6ff?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117&color=58a6ff)](https://github.com/7Freeza)
+[![Email](https://img.shields.io/badge/Email-ropainsebastian0%40gmail.com-e6edf3?style=for-the-badge&logo=gmail&logoColor=e6edf3&labelColor=0d1117&color=e6edf3)](mailto:ropainsebastian0@gmail.com)
 
 <br/>
 
-<sub>Building software that matters.</sub>
+<sub>Construyendo sistemas que piensan.</sub>
 
 </div>
