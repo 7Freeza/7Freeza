@@ -88,6 +88,14 @@ Estudiante todavía — la práctica no esperó al título. Cada skill de abajo 
   <img src="https://ghchart.rshah.org/8b949e/7Freeza" alt="Contribuciones" />
 </p>
 
+<p align="center">
+  <img src="github-metrics.svg" alt="Panel de métricas — se actualiza a diario" />
+</p>
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Serpiente de contribuciones — se actualiza a diario" />
+</p>
+
 ---
 
 <p align="center">
