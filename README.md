@@ -2,88 +2,65 @@
 
 # Sebastián Ropain
 
-<sub style="color:#8b949e;">estudiante de desarrollo de software · junior full-stack · Colombia</sub>
+*estudiante de desarrollo de software · junior full-stack · Colombia*
 
-<br/>
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=17&duration=3200&pause=1400&color=8b949e&center=true&vCenter=true&width=640&lines=estudiante+de+desarrollo+de+software;junior+full-stack;automatizacion+con+n8n+y+python;chatbots+con+RAG;web+apps+full-stack)
 
-<p style="color:#8b949e;">
-Automatizo con <b style="color:#e6edf3;">n8n</b> y <b style="color:#e6edf3;">Python puro</b>, armo <b style="color:#e6edf3;">chatbots con RAG</b> y construyo <b style="color:#e6edf3;">web apps full-stack</b>.<br/>
-Estudiante todavía — la práctica no esperó al título. Cada skill de abajo tiene un repo que la demuestra.
-</p>
-
-<br/>
-
-<p style="color:#c9d1d9;font-size:16px;margin:16px 0 4px;"><b>Stack</b></p>
-
-<p style="color:#8b949e;font-size:13px;margin:6px 0;">
-  <b style="color:#c9d1d9;">Lenguajes</b> ·
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Python</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">JavaScript</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">TypeScript</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">HTML</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">CSS</span>
-</p>
-
-<p style="color:#8b949e;font-size:13px;margin:6px 0;">
-  <b style="color:#c9d1d9;">Backend / Frontend</b> ·
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Node.js</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Express</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">FastAPI</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">React</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Vite</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Tailwind</span>
-</p>
-
-<p style="color:#8b949e;font-size:13px;margin:6px 0;">
-  <b style="color:#c9d1d9;">Datos</b> ·
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">PostgreSQL</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">MySQL</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">MariaDB</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">SQLite</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">REST APIs</span>
-</p>
-
-<p style="color:#8b949e;font-size:13px;margin:6px 0;">
-  <b style="color:#c9d1d9;">Automatización & IA</b> ·
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">n8n</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">RAG / embeddings</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Ollama</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Gemini</span>
-  <span style="display:inline-block;background:#161b22;border:1px solid #30363d;border-radius:999px;padding:3px 12px;margin:2px;color:#c9d1d9;font-size:12px;">Scraping</span>
-</p>
+![visitas](https://komarev.com/ghpvc/?username=7Freeza&style=flat-square&color=8b949e)
 
 </div>
 
-<div style="border-top:1px solid #30363d;margin:24px 0;"></div>
+## Sobre mí
 
-### Qué construyo
+Automatizo con **n8n** y **Python puro**, armo **chatbots con RAG** y construyo **web apps full-stack**.
+Estudiante todavía — la práctica no esperó al título. Cada skill de abajo tiene un repo que la demuestra.
 
-<table style="border-collapse:separate;border-spacing:8px;width:100%;">
-  <tr>
-    <td width="50%" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
-      <b style="color:#e6edf3;">Automatización & datos</b><br/>
-      <span style="color:#8b949e;font-size:14px;">n8n + Python puro: reconciliación de facturas, scraping y pipelines de Excel a estructura. El humano solo confirma.</span>
-    </td>
-    <td width="50%" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
-      <b style="color:#e6edf3;">Chatbots & RAG</b><br/>
-      <span style="color:#8b949e;font-size:14px;">Asistentes sobre bases de conocimiento con embeddings locales, streaming y fallback a LLM externo (Ollama / Gemini).</span>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
-      <b style="color:#e6edf3;">Full-stack</b><br/>
-      <span style="color:#8b949e;font-size:14px;">SPAs con Node / Express, React / Vite y Tailwind; APIs REST y bases relacionales (PostgreSQL, MySQL, MariaDB).</span>
-    </td>
-    <td width="50%" style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px;">
-      <b style="color:#e6edf3;">Terminal & Linux</b><br/>
-      <span style="color:#8b949e;font-size:14px;">CLIs y juegos en Python; configuración de Linux como arte (Material You, Niri).</span>
-    </td>
-  </tr>
-</table>
+**Hoy estoy en** el sprint 2 de [cuadre-iq](https://github.com/7Freeza/cuadre-iq): webhook de n8n para adjuntar facturas originales (Gmail/SMTP) y empujarlas a ERP.
 
-<div style="border-top:1px solid #30363d;margin:24px 0;"></div>
+## Stack
 
-### Proyectos destacados
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=8b949e)
+![JavaScript](https://img.shields.io/badge/-JavaScript-30363d?style=flat-square&logo=javascript&logoColor=8b949e)
+![TypeScript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=8b949e)
+![HTML5](https://img.shields.io/badge/-HTML5-30363d?style=flat-square&logo=html5&logoColor=8b949e)
+![CSS3](https://img.shields.io/badge/-CSS3-30363d?style=flat-square&logo=css3&logoColor=8b949e)
+
+**Backend / Frontend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=8b949e)
+![Express](https://img.shields.io/badge/-Express-30363d?style=flat-square&logo=express&logoColor=8b949e)
+![FastAPI](https://img.shields.io/badge/-FastAPI-30363d?style=flat-square&logo=fastapi&logoColor=8b949e)
+![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=8b949e)
+![Vite](https://img.shields.io/badge/-Vite-30363d?style=flat-square&logo=vite&logoColor=8b949e)
+![Tailwind](https://img.shields.io/badge/-Tailwind-30363d?style=flat-square&logo=tailwindcss&logoColor=8b949e)
+
+**Datos**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=8b949e)
+![MySQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=8b949e)
+![MariaDB](https://img.shields.io/badge/-MariaDB-30363d?style=flat-square&logo=mariadb&logoColor=8b949e)
+![SQLite](https://img.shields.io/badge/-SQLite-30363d?style=flat-square&logo=sqlite&logoColor=8b949e)
+
+**Automatización & IA**
+
+![n8n](https://img.shields.io/badge/-n8n-30363d?style=flat-square&logo=n8n&logoColor=8b949e)
+![Ollama](https://img.shields.io/badge/-Ollama-30363d?style=flat-square&logo=ollama&logoColor=8b949e)
+![Gemini](https://img.shields.io/badge/-Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=8b949e)
+![Shell](https://img.shields.io/badge/-Shell-30363d?style=flat-square&logo=gnubash&logoColor=8b949e)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-30363d?style=flat-square&logo=githubactions&logoColor=8b949e)
+
+## Qué construyo
+
+| Área | Qué es |
+|---|---|
+| **Automatización & datos** | n8n + Python puro: reconciliación de facturas, scraping y pipelines de Excel a estructura. El humano solo confirma. |
+| **Chatbots & RAG** | Asistentes sobre bases de conocimiento con embeddings locales, streaming y fallback a LLM externo (Ollama / Gemini). |
+| **Full-stack** | SPAs con Node / Express, React / Vite y Tailwind; APIs REST y bases relacionales (PostgreSQL, MySQL, MariaDB). |
+| **Terminal & Linux** | CLIs y juegos en Python; configuración de Linux como arte (Material You, Niri). |
+
+## Proyectos destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
@@ -94,22 +71,25 @@ Estudiante todavía — la práctica no esperó al título. Cada skill de abajo 
 | [chatbot-riwi](https://github.com/7Freeza/chatbot-riwi) | Agente conversacional con RAG y fallback de LLM sobre un ecosistema educativo. | TypeScript · Express · React |
 | [scrappeiq](https://github.com/7Freeza/scrappeiq) | Scraping unificado en una sola app, sin Jupyter. | JavaScript · Node |
 
-<sub style="color:#8b949e;">También en el historial: [T7-Dotfiles](https://github.com/7Freeza/T7-Dotfiles) (Linux ricing, 6★), [Terminal---Souls](https://github.com/7Freeza/Terminal---Souls) (juego por turnos en Python) y ejercicios de clase (logins, SQL, maquetas HTML).</sub>
+<sub>También en el historial: [T7-Dotfiles](https://github.com/7Freeza/T7-Dotfiles) (Linux ricing, 6★), [Terminal---Souls](https://github.com/7Freeza/Terminal---Souls) (juego por turnos en Python) y ejercicios de clase (logins, SQL, maquetas HTML).</sub>
 
-<div style="border-top:1px solid #30363d;margin:24px 0;"></div>
-
-<sub style="color:#8b949e;"><b style="color:#c9d1d9;">Hoy estoy en</b> · sprint 2 de [cuadre-iq](https://github.com/7Freeza/cuadre-iq): webhook de n8n para adjuntar facturas originales (Gmail/SMTP) y empujarlas a ERP.</sub>
-
-<br/>
+## Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7Freeza&show_icons=true&theme=transparent&hide_border=true&title_color=8b949e&icon_color=8b949e&text_color=c9d1d9" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Freeza&theme=transparent&hide_border=true&title_color=8b949e&text_color=c9d1d9&hide=html,css&langs_count=8" alt="Top languages" />
+  <img src="https://ghstats.dev/api/card?username=7Freeza&theme=dark&bg_color=161b22&text_color=c9d1d9&title_color=8b949e&icon_color=8b949e&border_color=30363d" alt="GitHub stats" />
+  <img src="https://ghstats.dev/api/langs?username=7Freeza&chart=compact&theme=dark&bg_color=161b22&text_color=c9d1d9&title_color=8b949e&border_color=30363d" alt="Lenguajes más usados" />
 </p>
 
-<div style="border-top:1px solid #30363d;margin:24px 0;"></div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=7Freeza&background=161b22&border=30363d&stroke=30363d&ring=8b949e&fire=8b949e&currStreakNum=e6edf3&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="Racha de contribuciones" />
+</p>
 
-<p align="center" style="color:#8b949e;">
-  contacto · <a href="mailto:ropainsebastian0@gmail.com" style="color:#c9d1d9;">ropainsebastian0@gmail.com</a> · <a href="https://github.com/7Freeza" style="color:#c9d1d9;">github.com/7Freeza</a>
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b949e/7Freeza" alt="Contribuciones" />
+</p>
+
+---
+
+<p align="center">
+  contacto · <a href="mailto:ropainsebastian0@gmail.com">ropainsebastian0@gmail.com</a> · <a href="https://github.com/7Freeza">github.com/7Freeza</a>
 </p>
