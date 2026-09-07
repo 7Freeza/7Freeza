@@ -1,0 +1,40 @@
+name: snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: 7Freeza
+          outputs: |
+            assets/github-snake.svg?color_snake=8b949e&color_dots=161b22,21262d,30363d,484f58,6e7681
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const path = 'assets/github-snake.svg';
+            const content = fs.readFileSync(path, 'utf8');
+            const res = await github.rest.repos.getContent({ owner, repo, path }).catch(() => null);
+            const current = res ? Buffer.from(res.data.content, 'base64').toString('utf8') : null;
+            if (current === content) {
+              console.log('sin cambios, se omite el commit');
+              return;
+            }
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path,
+              message: 'chore: actualizar snake [skip ci]',
+              content: Buffer.from(content).toString('base64'),
+              sha: res ? res.data.sha : undefined,
+            });
