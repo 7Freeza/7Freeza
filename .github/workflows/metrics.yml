@@ -12,8 +12,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -31,10 +29,15 @@ jobs:
           output_action: none
           filename: github-metrics.svg
 
-      - name: Recolor en gris (calendario y texto)
+      - name: Recolor en gris y subir
+        shell: bash
         run: |
-          sudo cp /metrics_renders/github-metrics.svg ./github-metrics.svg
-          python3 - <<'PY'
+          set -e
+          SRCFILE="$(find /metrics_renders -name 'github-metrics.svg' | head -n1)"
+          echo "source: $SRCFILE"
+          cp "$SRCFILE" ./github-metrics.svg
+          python3 - "$PWD/github-metrics.svg" <<'PY'
+          import sys
           ramp = {
             '#ebedf0': '#21262d',
             '#c6e48b': '#30363d',
@@ -47,20 +50,25 @@ jobs:
             '#666':     '#8b949e',
             '#777':     '#959da5',
           }
-          p = 'github-metrics.svg'
+          p = sys.argv[1]
           s = open(p, encoding='utf-8').read()
           for a, b in ramp.items():
               s = s.replace(a, b)
           open(p, 'w', encoding='utf-8').write(s)
+          print('recolor done')
           PY
 
-      - uses: actions/github-script@v6
+      - name: Commit del SVG
+        uses: actions/github-script@v6
         with:
           script: |
             const fs = require('fs');
             const { owner, repo } = context.repo;
             const path = 'github-metrics.svg';
             const content = fs.readFileSync(path, 'utf8');
+            if (!content.includes('#21262d')) {
+              throw new Error('El archivo no fue recolorado');
+            }
             const res = await github.rest.repos.getContent({ owner, repo, path }).catch(() => null);
             const current = res ? Buffer.from(res.data.content, 'base64').toString('utf8') : null;
             if (current === content) {
