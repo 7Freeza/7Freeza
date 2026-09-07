@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: 7Freeza
           outputs: |
-            assets/github-snake.svg?color_snake=8b949e&color_dots=161b22,21262d,30363d,484f58,6e7681
+            assets/github-snake.svg?color_snake=e6edf3&color_dots=21262d,3d444d,56606a,8b949e,c9d1d9
       - uses: actions/github-script@v6
         with:
           script: |
