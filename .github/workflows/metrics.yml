@@ -12,6 +12,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -26,6 +28,49 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 8
           plugin_activity_days: 30
-          output_action: commit
-          output_condition: data-changed
+          output_action: none
           filename: github-metrics.svg
+
+      - name: Recolor en gris (calendario y texto)
+        run: |
+          sudo cp /metrics_renders/github-metrics.svg ./github-metrics.svg
+          python3 - <<'PY'
+          ramp = {
+            '#ebedf0': '#21262d',
+            '#c6e48b': '#30363d',
+            '#7bc96f': '#3f4850',
+            '#40c463': '#484f58',
+            '#30a14e': '#6e7681',
+            '#216e39': '#8b949e',
+            '#0366d6': '#8b949e',
+            '#666':     '#8b949e',
+            '#777':     '#959da5',
+          }
+          p = 'github-metrics.svg'
+          s = open(p, encoding='utf-8').read()
+          for a, b in ramp.items():
+              s = s.replace(a, b)
+          open(p, 'w', encoding='utf-8').write(s)
+          PY
+
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const { owner, repo } = context.repo;
+            const path = 'github-metrics.svg';
+            const content = fs.readFileSync(path, 'utf8');
+            const res = await github.rest.repos.getContent({ owner, repo, path }).catch(() => null);
+            const current = res ? Buffer.from(res.data.content, 'base64').toString('utf8') : null;
+            if (current === content) {
+              console.log('sin cambios, se omite el commit');
+              return;
+            }
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path,
+              message: 'chore: actualizar metricas [skip ci]',
+              content: Buffer.from(content).toString('base64'),
+              sha: res ? res.data.sha : undefined,
+            });
