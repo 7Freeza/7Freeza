@@ -61,7 +61,7 @@ jobs:
             const { owner, repo } = context.repo;
             const path = 'github-metrics.svg';
             const content = fs.readFileSync(path, 'utf8');
-            if (!content.includes('#21262d')) {
+            if (content.includes('#ebedf0')) {
               throw new Error('El archivo no fue recolorado');
             }
             const res = await github.rest.repos.getContent({ owner, repo, path }).catch(() => null);
