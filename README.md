@@ -8,48 +8,38 @@
 
 ![visitas](https://komarev.com/ghpvc/?username=7Freeza&style=flat-square&color=8b949e)
 
-</div>
-
-## Sobre mí
-
-Automatizo con **n8n** y **Python puro**, armo **chatbots con RAG** y construyo **web apps full-stack**.
-Estudiante todavía — la práctica no esperó al título. Cada skill de abajo tiene un repo que la demuestra.
-
-**Hoy estoy en** el sprint 2 de [cuadre-iq](https://github.com/7Freeza/cuadre-iq): webhook de n8n para adjuntar facturas originales (Gmail/SMTP) y empujarlas a ERP.
-
-## Stack
-
 **Lenguajes**
 
-![Python](https://img.shields.io/badge/-Python-30363d?style=flat-square&logo=python&logoColor=8b949e)
-![JavaScript](https://img.shields.io/badge/-JavaScript-30363d?style=flat-square&logo=javascript&logoColor=8b949e)
-![TypeScript](https://img.shields.io/badge/-TypeScript-30363d?style=flat-square&logo=typescript&logoColor=8b949e)
-![HTML5](https://img.shields.io/badge/-HTML5-30363d?style=flat-square&logo=html5&logoColor=8b949e)
-![CSS3](https://img.shields.io/badge/-CSS3-30363d?style=flat-square&logo=css3&logoColor=8b949e)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend / Frontend**
 
-![Node.js](https://img.shields.io/badge/-Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=8b949e)
-![Express](https://img.shields.io/badge/-Express-30363d?style=flat-square&logo=express&logoColor=8b949e)
-![FastAPI](https://img.shields.io/badge/-FastAPI-30363d?style=flat-square&logo=fastapi&logoColor=8b949e)
-![React](https://img.shields.io/badge/-React-30363d?style=flat-square&logo=react&logoColor=8b949e)
-![Vite](https://img.shields.io/badge/-Vite-30363d?style=flat-square&logo=vite&logoColor=8b949e)
-![Tailwind](https://img.shields.io/badge/-Tailwind-30363d?style=flat-square&logo=tailwindcss&logoColor=8b949e)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black)
 
 **Datos**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=8b949e)
-![MySQL](https://img.shields.io/badge/-MySQL-30363d?style=flat-square&logo=mysql&logoColor=8b949e)
-![MariaDB](https://img.shields.io/badge/-MariaDB-30363d?style=flat-square&logo=mariadb&logoColor=8b949e)
-![SQLite](https://img.shields.io/badge/-SQLite-30363d?style=flat-square&logo=sqlite&logoColor=8b949e)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Automatización & IA**
 
-![n8n](https://img.shields.io/badge/-n8n-30363d?style=flat-square&logo=n8n&logoColor=8b949e)
-![Ollama](https://img.shields.io/badge/-Ollama-30363d?style=flat-square&logo=ollama&logoColor=8b949e)
-![Gemini](https://img.shields.io/badge/-Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=8b949e)
-![Shell](https://img.shields.io/badge/-Shell-30363d?style=flat-square&logo=gnubash&logoColor=8b949e)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-30363d?style=flat-square&logo=githubactions&logoColor=8b949e)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</div>
 
 ## Qué construyo
 
@@ -71,7 +61,7 @@ Estudiante todavía — la práctica no esperó al título. Cada skill de abajo 
 | [chatbot-riwi](https://github.com/7Freeza/chatbot-riwi) | Agente conversacional con RAG y fallback de LLM sobre un ecosistema educativo. | TypeScript · Express · React |
 | [scrappeiq](https://github.com/7Freeza/scrappeiq) | Scraping unificado en una sola app, sin Jupyter. | JavaScript · Node |
 
-<sub>También en el historial: [T7-Dotfiles](https://github.com/7Freeza/T7-Dotfiles) (Linux ricing, 6★), [Terminal---Souls](https://github.com/7Freeza/Terminal---Souls) (juego por turnos en Python) y ejercicios de clase (logins, SQL, maquetas HTML).</sub>
+<sub>También en el historial: [T7-Dotfiles](https://github.com/7Freeza/T7-Dotfiles) (Linux ricing, 6★), [Terminal---Souls](https://github.com/7Freeza/Terminal---Souls) (juego por turnos en Python) y ejercicios de clase.</sub>
 
 ## Métricas
 
