@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Sebastián Ropain — Data and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A0C10"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F2630" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#1F2630" stop-opacity="1"/>
+      <stop offset="0.85" stop-color="#1F2630" stop-opacity="1"/>
+      <stop offset="1" stop-color="#1F2630" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8B949E" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", "Fira Code", Menlo, Consolas, monospace; }
+      .eyebrow { font-size: 11.5px; letter-spacing: 3.2px; fill: #8B949E; }
+      .name { font-size: 54px; font-weight: 600; letter-spacing: -1.6px; fill: #E6EDF3; }
+      .role { font-size: 15px; letter-spacing: 0.2px; fill: #9BA6B2; }
+      .node { font-size: 12.5px; letter-spacing: 0.6px; fill: #AEB9C5; }
+      .cap { font-size: 11px; letter-spacing: 2.4px; fill: #5C6773; }
+      .accent { fill: #7EE787; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+
+  <!-- corner ticks -->
+  <g stroke="#2A333F" stroke-width="1">
+    <path d="M40 56V40h16M1224 40h16v16M1240 304v16h-16M56 320H40v-16"/>
+  </g>
+
+  <!-- eyebrow -->
+  <circle cx="46" cy="76" r="3.5" class="accent"/>
+  <text x="60" y="80" class="mono eyebrow">DATA &amp; AI ENGINEER</text>
+
+  <text x="44" y="146" class="mono name">Sebastián Ropain</text>
+  <text x="46" y="180" class="mono role">Pipelines, agentes y automatización · Colombia</text>
+
+  <text x="1236" y="80" text-anchor="end" class="mono eyebrow" fill="#5C6773">github.com/7Freeza</text>
+
+  <!-- rule -->
+  <rect x="44" y="206" width="1192" height="1" fill="url(#fade)"/>
+
+  <!-- pipeline spine -->
+  <rect x="44" y="259.5" width="1175" height="1" fill="#1B222C"/>
+
+  <!-- flowing pulse -->
+  <circle r="2.6" fill="#7EE787" filter="url(#glow)" opacity="0.95">
+    <animateMotion dur="7.5s" repeatCount="indefinite" path="M44,260 H1219"/>
+  </circle>
+
+  <!-- nodes -->
+  <g>
+    <rect x="44"  y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="213" y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="382" y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="551" y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="720" y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="889" y="240" width="143" height="40" rx="6" fill="#0E131A" stroke="#212A35"/>
+    <rect x="1058" y="240" width="161" height="40" rx="6" fill="#0E131A" stroke="#2E4034"/>
+  </g>
+  <g class="mono node" text-anchor="middle">
+    <text x="115.5" y="265">APIs</text>
+    <text x="284.5" y="265">Kafka</text>
+    <text x="453.5" y="265">Spark</text>
+    <text x="622.5" y="265">MinIO</text>
+    <text x="791.5" y="265">Postgres</text>
+    <text x="960.5" y="265">FastAPI</text>
+    <text x="1138.5" y="265" fill="#7EE787">Agentes</text>
+  </g>
+
+  <!-- connector chevrons -->
+  <g stroke="#2F3946" stroke-width="1.4" fill="none" stroke-linecap="round">
+    <path d="M192 256l4 4-4 4M361 256l4 4-4 4M530 256l4 4-4 4M699 256l4 4-4 4M868 256l4 4-4 4M1037 256l4 4-4 4"/>
+  </g>
+
+  <!-- footer line -->
+  <text x="46" y="316" class="mono cap">INGESTA → BATCH + STREAMING → SERVING → AGENTE</text>
+  <text x="1236" y="316" text-anchor="end" class="mono cap" fill="#5C6773">MEDALLION · LAMBDA · RAG</text>
+</svg>
