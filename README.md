@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Sebastián Ropain — Data & AI Engineering" />
+  <img src="assets/hero.svg?v=2" width="100%" alt="Sebastián Ropain — Data & AI Engineering" />
 </p>
 
 Construyo sistemas de datos de punta a punta: ingesta orquestada, capas limpias y auditables, API y consumo en vivo. El criterio es el mismo en todos mis proyectos: **el dato llega con calidad o no llega, y el agente que lo consulta no inventa.**
